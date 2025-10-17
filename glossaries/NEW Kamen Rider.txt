@@ -1,5 +1,5 @@
 维护者：Shinean
-版本号：1.0.91
+版本号：1.0.92
 更新时间：2025-10-19
 
 
@@ -88,7 +88,7 @@ Kamen Rider OOO：假面骑士OOO
 Hino Eiji=火野 映司
 Ankh：Ankh
 Izumi Hina=泉 比奈
-Date Akira=伊达 明
+Date Akira：伊达 明
 Goto Shintaro =后藤 慎太郎
 Kougami Kosei =鸿上 光生
 Kamen Rider Fourze：假面骑士Fourze
@@ -117,6 +117,7 @@ Kumon Kaito=驱纹 戒斗
 Takatsukasa Mai =高司舞
 Kureshima Mitsuzane=吴岛 光实
 micchi：阿实
+micchy：阿实
 Kureshima Takatora=吴岛 贵虎
 Zack：Zack
 Peko：Peko
