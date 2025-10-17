@@ -1,5 +1,5 @@
 维护者：Shinean
-版本号：1.0.6
+版本号：1.0.7
 更新时间：2025-10-19
 
 
@@ -90,7 +90,7 @@ Ankh：Ankh
 Izumi Hina=泉 比奈
 Date Akira=伊达 明
 Goto Shintaro =后藤 慎太郎
-Kogure Kosei =鸿上 光生
+Kougami Kosei =鸿上 光生
 Kamen Rider Fourze：假面骑士Fourze
 Kisaragi Gentaro=如月 弦太朗
 Utahoshi Kengo=歌星 贤吾
@@ -183,6 +183,7 @@ Astro Switch：天文开关
 Zodiarts：星徒
 Phantom：Phantom
 Magic Stone：魔法石
+Zawame：泽芽
 Yggdrasill Corporation：世界树财团
 Lockseed：锁种
 Helheim Forest：海姆冥界森林
