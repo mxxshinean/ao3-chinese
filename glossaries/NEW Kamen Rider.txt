@@ -1,5 +1,5 @@
 维护者：Shinean
-版本号：1.0.7
+版本号：1.0.8
 更新时间：2025-10-19
 
 
@@ -108,7 +108,7 @@ Fueki Koyomi=笛木 历
 Nara Shunpei= 奈良 瞬平
 Daimon Rinko=大门 凛子
 Wajima Shigeru=轮岛繁
-Nitoh Kosuke=仁藤 攻介
+Nito Kosuke=仁藤 攻介
 Kamen Rider Gaim：假面骑士铠武
 Kazuraba Kouta=葛叶 纮汰
 Kumon Kaito=驱纹 戒斗
