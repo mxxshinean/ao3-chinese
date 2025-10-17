@@ -1,5 +1,5 @@
 维护者：Shinean
-版本号：1.0.92
+版本号：1.0.93
 更新时间：2025-10-19
 
 
@@ -107,14 +107,14 @@ Soma Haruto-操真 晴人
 Fueki Koyomi=笛木 历
 Nara Shunpei= 奈良 瞬平
 Daimon Rinko=大门 凛子
-Wajima Shigeru=轮岛繁
+Wajima Shigeru=轮岛 繁
 Nito Kosuke=仁藤 攻介
 Nito Kousuke=仁藤 攻介
 Kamen Rider Gaim：假面骑士铠武
 Kazuraba Kouta=葛叶 纮汰
 Kazuraba Akira=葛叶 晶
 Kumon Kaito=驱纹 戒斗
-Takatsukasa Mai =高司舞
+Takatsukasa Mai =高司 舞
 Kureshima Mitsuzane=吴岛 光实
 micchi：阿实
 micchy：阿实
@@ -162,6 +162,7 @@ Kamen Rider Geats：假面骑士极狐
 
 //专有名词
 
+Rider：骑士
 Mirror World：镜世界
 Advent Card：降临卡
 Mirror Monster： 镜怪物
