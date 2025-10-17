@@ -1,5 +1,5 @@
 维护者：Shinean
-版本号：1.0.2
+版本号：1.0.3
 更新时间：2025-10-19
 
 
@@ -134,7 +134,7 @@ Tsukimura Akari=月村 明里
 Kamen Rider Ex-Aid：假面骑士Ex-Aid
 Hojo Emu=宝生 永梦
 Kagami Hiiro=镜 飞彩
-Kiriya Kujo=九条 贵利矢
+Kujo Kiriya =九条 贵利矢
 Kamen Rider Build：假面骑士Build
 Kiryu Sento=桐生 战兔
 Banjo Ryuga =万丈 龙我
@@ -154,7 +154,6 @@ Igarashi Ikki=五十岚 一辉
 Vice：Vice
 Giff：基夫
 Kamen Rider Geats：假面骑士极狐
-Ukiyo Ace=浮世 英寿
 
 //专有名词
 
