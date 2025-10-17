@@ -43,7 +43,7 @@ Kamen Rider Kaixa：假面骑士Kaixa
 Faiz：Faiz
 Kaixa：Kaixa
 Inui Takumi=乾 巧
-Kusaka Masato=草加雅人
+Kusaka Masato=草加 雅人
 Sonoda Mari= 园田 真理
 Kiba Yuji=木场 勇治
 Kamen Rider Blade：假面骑士Blade
@@ -59,6 +59,7 @@ Hibiki：响鬼
 Danki：弹鬼
 Ibuki：威吹鬼
 Todoroki：轰鬼
+Zanki：斩鬼
 Asumu：明日梦
 Kamen Rider Kabuto：假面骑士Kabuto
 Tendou Souji=天道 总司
@@ -75,7 +76,7 @@ Nobori Taiga=登 太牙
 Suzuki Mio= 铃木 深央
 Kamen Rider Decade：假面骑士Decade
 Kadoya Tsukasa=门 矢士
-Hikari Natsumi=光夏海
+Hikari Natsumi=光 夏海
 Onodera Yuusuke =小野寺雄介
 Narutaki： 鸣泷
 Kamen Rider W：假面骑士W
@@ -109,37 +110,37 @@ Daimon Rinko=大门凛子
 Wajima Shigeru=轮岛繁
 Nitoh Kosuke=仁藤 攻介
 Kamen Rider Gaim：假面骑士铠武
-Kouta Kazuraba=葛叶 纮汰
-Kumon Kaito=驱纹戒斗
+Kazuraba Kouta=葛叶 纮汰
+Kumon Kaito=驱纹 戒斗
 Takatsukasa Mai =高司舞
 Kureshima Mitsuzane=吴岛 光实
-Kureshima Takatara=吴岛贵虎
+Kureshima Takatara=吴岛 贵虎
 Zack：Zack
 Peko：Peko
 Chucky：Chucky
 Hideyasu Jonouchi：城之内 秀保
 Minato Yoko=凑 耀子
-Sengoku Ryoma=战极凌马
+Sengoku Ryoma=战极 凌马
 Kamen Rider Drive：假面骑士Drive
-Tomari Shinnosuke=泊进之介
+Tomari Shinnosuke=泊 进之介
 Shijima Kiriko=诗岛 雾子
 Shijima Go=诗岛 刚
 Chase：Chase
 Belt-san：腰带先生
 Kamen Rider Ghost：假面骑士Ghost
 Tenkuji Takeru=天空寺 尊
-Tsukimura Akari=月村明里
+Tsukimura Akari=月村 明里
 Kamen Rider Ex-Aid：假面骑士Ex-Aid
 Hojo Emu=宝生 永梦
-Kagami Hiiro=镜飞彩
-Kiriya Kujo=九条贵利矢
+Kagami Hiiro=镜 飞彩
+Kiriya Kujo=九条 贵利矢
 Kamen Rider Build：假面骑士Build
-Kiryu Sento=桐生战兔
-Banjo Ryuga =万丈龙我
-Takigawa Sawa =泷川纱羽
+Kiryu Sento=桐生 战兔
+Banjo Ryuga =万丈 龙我
+Takigawa Sawa =泷川 纱羽
 Kamen Rider Zi-O：假面骑士时王
-Tokiwa Sougo=常磐庄吾
-Myokoin Geiz=明光院盖茨
+Tokiwa Sougo=常磐 庄吾
+Myokoin Geiz=明光院 盖茨
 Tsukuyomi： 月读
 Kamen Rider Zero-One：假面骑士01
 Aruto：或人
