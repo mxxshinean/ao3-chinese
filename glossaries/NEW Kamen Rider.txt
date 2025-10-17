@@ -1,5 +1,5 @@
 维护者：Shinean
-版本号：1.0.8
+版本号：1.0.9
 更新时间：2025-10-19
 
 
@@ -109,6 +109,7 @@ Nara Shunpei= 奈良 瞬平
 Daimon Rinko=大门 凛子
 Wajima Shigeru=轮岛繁
 Nito Kosuke=仁藤 攻介
+Nito Kousuke=仁藤 攻介
 Kamen Rider Gaim：假面骑士铠武
 Kazuraba Kouta=葛叶 纮汰
 Kumon Kaito=驱纹 戒斗
@@ -127,7 +128,7 @@ Sengoku Ryoma=战极 凌马
 Kamen Rider Drive：假面骑士Drive
 Tomari Shinnosuke=泊 进之介
 Shijima Kiriko=诗岛 雾子
-Shijima Go: 诗岛刚
+Shijima Gou: 诗岛刚
 Chase：Chase
 Belt-san：腰带先生
 Kamen Rider Ghost：假面骑士Ghost
