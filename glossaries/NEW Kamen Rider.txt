@@ -1,5 +1,5 @@
 维护者：Shinean
-版本号：1.0.4
+版本号：1.0.5
 更新时间：2025-10-19
 
 
@@ -88,7 +88,7 @@ Kamen Rider OOO：假面骑士OOO
 Hino Eiji=火野 映司
 Ankh：Ankh
 Izumi Hina=泉 比奈
-Akira Date=伊达 明
+Date Akira=伊达 明
 Goto Shintaro =后藤 慎太郎
 Kogure Kosei =鸿上 光生
 Kamen Rider Fourze：假面骑士Fourze
@@ -105,8 +105,8 @@ Kamen Rider Club：假面骑士部
 Kamen Rider Wizard：假面骑士Wizard
 Soma Haruto-操真 晴人
 Fueki Koyomi=笛木 历
-Nara Shunpei= 奈良瞬平
-Daimon Rinko=大门凛子
+Nara Shunpei= 奈良 瞬平
+Daimon Rinko=大门 凛子
 Wajima Shigeru=轮岛繁
 Nitoh Kosuke=仁藤 攻介
 Kamen Rider Gaim：假面骑士铠武
