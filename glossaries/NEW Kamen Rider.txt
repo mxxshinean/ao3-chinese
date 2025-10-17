@@ -1,5 +1,5 @@
 维护者：Shinean
-版本号：1.0.3
+版本号：1.0.4
 更新时间：2025-10-19
 
 
@@ -125,7 +125,7 @@ Sengoku Ryoma=战极 凌马
 Kamen Rider Drive：假面骑士Drive
 Tomari Shinnosuke=泊 进之介
 Shijima Kiriko=诗岛 雾子
-Shijima Go=诗岛 刚
+Shijima Go: 诗岛刚
 Chase：Chase
 Belt-san：腰带先生
 Kamen Rider Ghost：假面骑士Ghost
