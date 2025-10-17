@@ -5,6 +5,16 @@
 
 词条
 
+//专有名词
+
+Grongi：古朗基
+BOARD：BOARD 
+ZECT：ZECT
+Advent： 降临 
+
+
+通用词条
+
 // 角色
 
 Kamen Rider Kuuga：假面骑士空我
@@ -144,15 +154,7 @@ Giff：基夫
 Kamen Rider Geats：假面骑士极狐
 Ukiyo Ace=浮世 英寿
 
-
 //专有名词
-
-Grongi：古朗基
-BOARD：BOARD 
-ZECT：ZECT
-Advent： 降临 
-
-通用词条
 
 Mirror World：镜世界
 Advent Card：降临卡
