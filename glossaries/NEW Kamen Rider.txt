@@ -1,5 +1,5 @@
 维护者：Shinean
-版本号：1.0.94
+版本号：1.0.95
 更新时间：2025-10-19
 
 
@@ -79,6 +79,7 @@ Kamen Rider Decade：假面骑士Decade
 Kadoya Tsukasa=门 矢士
 Hikari Natsumi=光 夏海
 Onodera Yuusuke =小野寺 雄介
+Kaitou Daiki=海东 大树
 Narutaki：鸣泷
 Kamen Rider W：假面骑士W
 Hidari Shotaro=左 翔太郎
@@ -131,7 +132,7 @@ Sengoku Ryoma=战极 凌马
 Kamen Rider Drive：假面骑士Drive
 Tomari Shinnosuke=泊 进之介
 Shijima Kiriko=诗岛 雾子
-Shijima Gou: 诗岛刚
+Shijima Gou=诗岛刚
 Chase：Chase
 Belt-san：腰带先生
 Kamen Rider Ghost：假面骑士Ghost
