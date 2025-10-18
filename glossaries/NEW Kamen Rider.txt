@@ -1,5 +1,5 @@
 维护者：Shinean
-版本号：1.0.93
+版本号：1.0.94
 更新时间：2025-10-19
 
 
@@ -11,6 +11,7 @@ Grongi：古朗基
 BOARD：BOARD 
 ZECT：ZECT
 Advent： 降临 
+Another Rider：异类骑士
 
 
 通用词条
@@ -72,7 +73,7 @@ Kintaros： 金塔罗斯
 Ryutaros： 龙塔罗斯
 Kamen Rider Kiva：假面骑士Kiva
 Kurenai Wataru =红 渡
-Nobori Taiga=登 太牙
+Nobori Taiga：登 太牙
 Suzuki Mio= 铃木 深央
 Kamen Rider Decade：假面骑士Decade
 Kadoya Tsukasa=门 矢士
@@ -88,9 +89,9 @@ Kamen Rider OOO：假面骑士OOO
 Hino Eiji=火野 映司
 Ankh：Ankh
 Izumi Hina=泉 比奈
-Date Akira：伊达 明
+Date Akira=伊达 明
 Goto Shintaro =后藤 慎太郎
-Kougami Kosei =鸿上 光生
+Kougami Kousei =鸿上 光生
 Kamen Rider Fourze：假面骑士Fourze
 Kisaragi Gentaro=如月 弦太朗
 Utahoshi Kengo=歌星 贤吾
@@ -210,7 +211,6 @@ Wonder World：奇幻世界
 Seiken：圣剑
 Wonder Ride Book：奇幻驾驭书
 Megid：米吉多
-Another Rider：异类骑士
 Deadmans：亡命众
 Vistamp：罪恶印章
 Desire Grand Prix：欲望大奖赛
