@@ -1,5 +1,5 @@
 维护者：Shinean
-版本号：1.0.96
+版本号：1.0.97
 更新时间：2025-10-19
 
 
@@ -47,14 +47,17 @@ Inui Takumi=乾 巧
 Kusaka Masato=草加 雅人
 Sonoda Mari= 园田 真理
 Kiba Yuji=木场 勇治
+Osada Yuka=长田 结花
+Kaido Naoya=海堂 直也
+Smart Lady：Smart Lady
 Kamen Rider Blade：假面骑士Blade
-Blade：Blade
-Garren：Garren
 Kenzaki Kazuma=剑崎 一真
 Tachibana Sakuya=橘 朔也
 Aikawa Hajime=相川 始
-Kamijō Mutsuki=上城睦月
-Shirai Kotaro =白井虎太郎
+Kamijō Mutsuki=上城 睦月
+Shirai Kotaro =白井 虎太郎
+Hirose Shiori=广瀬 栞
+Fukasawa Sayoko=深泽 小夜子
 Kamen Rider Hibiki：假面骑士响鬼
 Hibiki：响鬼
 Danki：弹鬼
@@ -63,8 +66,21 @@ Todoroki：轰鬼
 Zanki：斩鬼
 Asumu：明日梦
 Kamen Rider Kabuto：假面骑士Kabuto
+Kamen Rider TheBee：假面骑士TheBee
 Tendou Souji=天道 总司
 Kagami Arata=加贺美 新
+Kusakabe Hiyori=日下部 煦
+Tendou Jyuka =天道 树花
+Takemiya Yumiko=竹宫 弓子
+Kazama Daisuke=风间 大介
+Gon：小言
+Kamishiro Tsurugi=神代 剑
+Tadokoro Shuichi=田所 修一
+Misaki Yuzuki=岬 祐月
+Yaguruma Sou=矢车 想
+Kageyama Shun=影山 瞬
+Takatori Renge=高鸟 莲华
+Negishi：根岸
 Kamen Rider Den-O：假面骑士电王
 Nogami Ryotaro=野上 良太郎
 Momotaros： 桃塔罗斯
@@ -73,8 +89,16 @@ Kintaros： 金塔罗斯
 Ryutaros： 龙塔罗斯
 Kamen Rider Kiva：假面骑士Kiva
 Kurenai Wataru =红 渡
+Nago Keisuke=名护 启介
+Aso Megumi=麻生 恵
+Kurenai Otoya=红 音也
+Maya：真夜
+Nomura Shizuka=野村 静香
 Nobori Taiga：登 太牙
-Suzuki Mio= 铃木 深央
+Suzuki Mio=铃木 深央
+Eritate Kengo=襟立 健吾
+Jiro：次狼
+Tatsulot：Tatsulot
 Kamen Rider Decade：假面骑士Decade
 Kadoya Tsukasa=门矢 士
 Hikari Natsumi=光 夏海
@@ -130,6 +154,13 @@ Hase Ryouji=初濑 亮二
 Oren：凰莲
 Minato Yoko=凑 耀子
 Sengoku Ryoma=战极 凌马
+Sumii Yuya=角居 裕也
+Bando Kiyojiro=阪东 清治郎
+Sagara：相良
+Roshuo：白亚
+Dyudyuonshu：真红
+Redyue：翡翠
+Kogane：光金
 Kamen Rider Drive：假面骑士Drive
 Tomari Shinnosuke=泊 进之介
 Shijima Kiriko=诗岛 雾子
@@ -162,6 +193,9 @@ Igarashi Ikki=五十岚 一辉
 Vice：Vice
 Giff：基夫
 Kamen Rider Geats：假面骑士极狐
+Kamen Rider Gotchard：假面骑士歌查德
+Ichinose Houtaro=一之濑 宝太郎
+
 
 //专有名词
 
@@ -192,9 +226,12 @@ Phantom：Phantom
 Magic Stone：魔法石
 Zawame：泽芽
 Yggdrasill Corporation：世界树财团
+Team Gaim：铠武队
+Team Baron：巴隆队
 Lockseed：锁种
 Helheim Forest：海姆冥界森林
 Inves：Inves
+Sengoku Driver：战极驱动器 
 Roidmude：Roidmude
 Global Freeze：全球冻结
 Eyecon：眼魂
